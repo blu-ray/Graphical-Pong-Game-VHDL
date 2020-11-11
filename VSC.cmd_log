@@ -1,0 +1,5 @@
+vhdtdtfi -prj second -o "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhi" -module VSC -template D:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work VSC.vhd 
+vhdtdtfi -prj second -o "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhi" -module VSC -template D:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work VSC.vhd 
+vhdtdtfi -prj second -o "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhi" -module VSC -template D:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work VSC.vhd 
+vhdtdtfi -prj second -o "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhi" -module VSC -template D:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work VSC.vhd 
+vhdtdtfi -prj second -o "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhi" -module VSC -template D:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work VSC.vhd 

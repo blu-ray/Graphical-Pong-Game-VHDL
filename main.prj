@@ -1,0 +1,6 @@
+vhdl work "VSC.vhd"
+vhdl work "HSC.vhd"
+vhdl work "CG.vhd"
+vhdl work "Sg.vhd"
+vhdl work "dcm_1.vhd"
+vhdl work "main.vhd"

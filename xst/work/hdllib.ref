@@ -1,0 +1,12 @@
+EN cg NULL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/CG.vhd" sub00/vhpl04 1546860116
+AR main behavioral "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/main.vhd" sub00/vhpl11 1546860123
+AR hsc behavioral "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/HSC.vhd" sub00/vhpl01 1546860113
+AR cg behavioral "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/CG.vhd" sub00/vhpl05 1546860117
+EN main NULL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/main.vhd" sub00/vhpl10 1546860122
+AR dcm_1 behavioral "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/dcm_1.vhd" sub00/vhpl07 1546860119
+EN sg NULL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/Sg.vhd" sub00/vhpl08 1546860120
+AR vsc behavioral "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhd" sub00/vhpl03 1546860115
+AR sg behavioral "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/Sg.vhd" sub00/vhpl09 1546860121
+EN vsc NULL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhd" sub00/vhpl02 1546860114
+EN dcm_1 NULL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/dcm_1.vhd" sub00/vhpl06 1546860118
+EN hsc NULL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/HSC.vhd" sub00/vhpl00 1546860112

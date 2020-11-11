@@ -1,0 +1,5 @@
+
+# PlanAhead Generated physical constraints 
+
+#NET "SelectSG[1]" LOC = P162;
+NET "SelectSG" LOC = P161;

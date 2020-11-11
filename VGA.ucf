@@ -1,0 +1,13 @@
+NET "bitsout[0]" LOC = P10;
+NET "bitsout[1]" LOC = P2;
+NET "bitsout[2]" LOC = P205;
+NET "bitsout[3]" LOC = P204;
+NET "bitsout[4]" LOC = P203;
+NET "bitsout[5]" LOC = P200;
+NET "bitsout[6]" LOC = P199;
+NET "bitsout[7]" LOC = P198;
+NET "bitsout[8]" LOC = P197;
+NET "bitsout[9]" LOC = P196;
+
+NET "HSync" LOC = P191;
+NET "VSync" LOC = P194;

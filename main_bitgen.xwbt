@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Capricorn\Desktop\Projects\CAD Lab\second\main.ncd
+OUTFILE=C:\Users\Capricorn\Desktop\Projects\CAD Lab\second\main.bit
+FAMILY=Spartan3
+PART=xc3s400-4pq208
+WORKINGDIR=C:\Users\Capricorn\Desktop\Projects\CAD Lab\second
+LICENSE=WebPack
+USER_INFO=__0_0_0

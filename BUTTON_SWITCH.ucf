@@ -1,0 +1,5 @@
+#NET "GCLK" LOC = P184;
+NET "upright" LOC = P190;
+NET "downright" LOC = P189;
+NET "upleft" LOC = P187;
+NET "downleft" LOC = P185;

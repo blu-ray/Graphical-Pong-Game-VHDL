@@ -1,0 +1,41 @@
+V3 27
+FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/CG.vhd" 2019/01/07.14:51:48 P.20131013
+EN work/CG 1546860116 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/CG.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/CG/Behavioral 1546860117 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/CG.vhd" EN work/CG 1546860116
+FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/dcm_1.vhd" 2018/11/26.15:55:14 P.20131013
+EN work/dcm_1 1546860118 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/dcm_1.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/dcm_1/BEHAVIORAL 1546860119 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/dcm_1.vhd" \
+      EN work/dcm_1 1546860118 CP BUFG CP IBUFG CP DCM
+FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/HSC.vhd" 2018/11/12.16:19:22 P.20131013
+EN work/HSC 1546860112 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/HSC.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/HSC/Behavioral 1546860113 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/HSC.vhd" EN work/HSC 1546860112
+FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/main.vhd" 2018/12/08.13:58:20 P.20131013
+EN work/main 1546860122 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/main.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/main/Behavioral 1546860123 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/main.vhd" \
+      EN work/main 1546860122 CP dcm_1 CP Sg
+FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/Sg.vhd" 2018/12/31.15:03:11 P.20131013
+EN work/Sg 1546860120 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/Sg.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Sg/Behavioral 1546860121 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/Sg.vhd" EN work/Sg 1546860120 \
+      CP HSC CP VSC CP CG
+FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhd" 2018/11/12.16:51:12 P.20131013
+EN work/VSC 1546860114 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/VSC/Behavioral 1546860115 \
+      FL "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/VSC.vhd" EN work/VSC 1546860114

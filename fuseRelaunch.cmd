@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/MainTest_isim_beh.exe" -prj "C:/Users/Capricorn/Desktop/Projects/CAD Lab/second/MainTest_beh.prj" "work.MainTest" 
